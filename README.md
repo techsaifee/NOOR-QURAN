@@ -1,21 +1,102 @@
+# 📖 Noor Quran
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+A modern, elegant, and privacy-focused Quran application built with Flutter.
+
+Read the Holy Quran in **Arabic** with **English translation** through a beautiful Material 3 interface designed for a peaceful and distraction-free reading experience.
+
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/0d4f5439-0821-4de1-bda9-8fc922233462
+* 📖 Complete Holy Quran
+* 🌍 English Translation
+* 🎨 Material 3 Design
+* ✨ Beautiful Glassmorphism UI
+* 🌞 Light Mode
+* 🌙 Dark Mode
+* 🌌 Night Reading Mode
+* 🔠 Adjustable Font Size
+* 📋 Copy Verses
+* 📤 Share Verses
+* 📈 Reading Progress
+* 🚫 No Ads
+* 🔒 No Unnecessary Permissions
+* ⚡ Smooth & Fast Performance
+* ❤️ Privacy First
 
-## Run Locally
+---
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+## 📱 Screenshots
 
+> Add screenshots here.
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+| Home                      | Reader                      | Dark Mode                 |
+| ------------------------- | --------------------------- | ------------------------- |
+| ![](screenshots/home.png) | ![](screenshots/reader.png) | ![](screenshots/dark.png) |
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/yourusername/noor-quran.git
+
+cd noor-quran
+
+flutter pub get
+
+flutter run
+```
+
+---
+
+## 🛠️ Built With
+
+* Flutter
+* Dart
+* Material 3
+* Glassmorphism UI
+
+---
+
+## 🎯 Philosophy
+
+Noor Quran is designed to provide a clean, elegant, and distraction-free Quran reading experience with a strong focus on privacy, readability, and beautiful design.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository, improve the project, and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙏 Acknowledgements
+
+* Quran text and translations are sourced from trusted and properly licensed Quran data providers.
+* Built with ❤️ using Flutter.
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, don't forget to star the repository!
+
+*"The best among you are those who learn the Quran and teach it."*
+**— Prophet Muhammad ﷺ**
+
+</div>
