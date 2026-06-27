@@ -1,0 +1,6 @@
+{
+  "name": "Noor Quran",
+  "description": "An elegant, premium Holy Quran reading and tracking application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
