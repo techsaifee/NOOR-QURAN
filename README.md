@@ -34,30 +34,6 @@ Read the Holy Quran in **Arabic** with **English translation** through a beautif
 
 ---
 
-## 📱 Screenshots
-
-> Add screenshots here.
-
-| Home                      | Reader                      | Dark Mode                 |
-| ------------------------- | --------------------------- | ------------------------- |
-| ![](screenshots/home.png) | ![](screenshots/reader.png) | ![](screenshots/dark.png) |
-
----
-
-## 🚀 Installation
-
-```bash
-git clone https://github.com/yourusername/noor-quran.git
-
-cd noor-quran
-
-flutter pub get
-
-flutter run
-```
-
----
-
 ## 🛠️ Built With
 
 * Flutter
